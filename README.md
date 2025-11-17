@@ -47,18 +47,11 @@ CSV Dataset
 ## Dashboard Preview  
 
 <p align="center">
-  <img src="Dashboard_Screenshots/page1.png" width="32%" />
-  <img src="Dashboard_Screenshots/page2.png" width="32%" />
-  <img src="Dashboard_Screenshots/page3.png" width="32%" />
+  <img src="C:\Users\Vinay\OneDrive\Desktop\TCS_Retail_Project\Dashboard_1.png" width="32%" />
+  <img src="C:\Users\Vinay\OneDrive\Desktop\TCS_Retail_Project\Dashboard_2.png" width="32%" />
+  <img src="C:\Users\Vinay\OneDrive\Desktop\TCS_Retail_Project\Dashboard_3.png" width="32%" />
+  <img src="C:\Users\Vinay\OneDrive\Desktop\TCS_Retail_Project\Dashboard_4.png" width="32%" />
 </p>
-
-<p align="center">
-  <img src="Dashboard_Screenshots/page4.png" width="32%" />
-  <img src="Dashboard_Screenshots/page5.png" width="32%" />
-  <img src="Dashboard_Screenshots/page6.png" width="32%" />
-</p>
-
-
 
 
 ## Dashboard Highlights  
