@@ -1,6 +1,17 @@
 # TCS_Retail_Data-Analysis
 This Power BI project analyzes worldwide sales patterns to uncover revenue trends, customer purchase behavior, top-performing markets, and monthly/quarterly insights.  It is designed for business teams to make fast, data-driven decisions using an interactive and dynamic dashboard.
 
+# Dataset Overview
+**Columns include:
+Invoice No
+StockCode
+Description
+Quantity
+Invoice Date
+Unit Price
+Customer ID
+Country**
+
 # Objectives
 Analyze Total Revenue, Quantity Sold & Product Performance
 Identify Top/Bottom Countries by Sales
@@ -41,6 +52,22 @@ CSV Dataset
 <img width="1400" height="811" alt="Dashboard_3" src="https://github.com/user-attachments/assets/86dbc350-baaa-45b6-840a-2383284aa71a" />
 
 <img width="1361" height="811" alt="Dashboard_4" src="https://github.com/user-attachments/assets/8fb07cda-dce8-4979-ad7f-4de1919f05e2" />
+
+
+## Dashboard Highlights
+Total Revenue: 8.9M+ |
+Total Quantity Sold: 5.1M+ |
+Products Analyzed: 397K+ |
+Countries Covered: 37+ 
+
+### Includes:
+✔ KPI Cards
+✔ Line Charts
+✔ Bar/Column Visuals
+✔ Geo-Map Sales View
+✔ Customer & Product Tables
+✔ Monthly & Quarterly Breakdown
+
 
 
 
