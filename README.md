@@ -2,15 +2,15 @@
 This Power BI project analyzes worldwide sales patterns to uncover revenue trends, customer purchase behavior, top-performing markets, and monthly/quarterly insights.  It is designed for business teams to make fast, data-driven decisions using an interactive and dynamic dashboard.
 
 # Dataset Overview
-**Columns include:
-Invoice No
-StockCode
-Description
-Quantity
-Invoice Date
-Unit Price
-Customer ID
-Country**
+**Columns include:  
+Invoice No  
+StockCode  
+Description  
+Quantity  
+Invoice Date  
+Unit Price  
+Customer ID  
+Country**  
 
 # Objectives
 Analyze Total Revenue, Quantity Sold & Product Performance
