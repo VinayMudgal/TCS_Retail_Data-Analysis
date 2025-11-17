@@ -46,12 +46,13 @@ CSV Dataset
 
 ## Dashboard Preview  
 
-<p align="center">
-  <img src="C:\Users\Vinay\OneDrive\Desktop\TCS_Retail_Project\Dashboard_1.png" width="32%" />
-  <img src="C:\Users\Vinay\OneDrive\Desktop\TCS_Retail_Project\Dashboard_2.png" width="32%" />
-  <img src="C:\Users\Vinay\OneDrive\Desktop\TCS_Retail_Project\Dashboard_3.png" width="32%" />
-  <img src="C:\Users\Vinay\OneDrive\Desktop\TCS_Retail_Project\Dashboard_4.png" width="32%" />
-</p>
+<img width="1406" height="813" alt="Dashboard_1" src="https://github.com/user-attachments/assets/8c72689d-f9bc-4fc2-8594-e60255ecbc17" />
+
+<img width="1400" height="808" alt="Dashboard_2" src="https://github.com/user-attachments/assets/f3259031-a6f9-4d89-9c71-efc59b25a7bd" />
+
+<img width="1400" height="811" alt="Dashboard_3" src="https://github.com/user-attachments/assets/dee88aaf-652a-4497-96f8-13f23e4259db" />
+
+<img width="1361" height="811" alt="Dashboard_4" src="https://github.com/user-attachments/assets/00ed9c62-0bf1-4db2-8351-3a6d419590b3" />
 
 
 ## Dashboard Highlights  
