@@ -34,6 +34,22 @@ CSV Dataset
 
 ## Dashboard Preview
 
+<img width="1406" height="813" alt="Dashboard_1" src="https://github.com/user-attachments/assets/4ab77824-89a4-4c6a-a0cd-59f36e069814" />
+
+<img width="1400" height="808" alt="Dashboard_2" src="https://github.com/user-attachments/assets/424346a4-9ae1-4fc5-b8a6-a2d3fc657e0f" />
+
+<img width="1400" height="811" alt="Dashboard_3" src="https://github.com/user-attachments/assets/86dbc350-baaa-45b6-840a-2383284aa71a" />
+
+<img width="1361" height="811" alt="Dashboard_4" src="https://github.com/user-attachments/assets/8fb07cda-dce8-4979-ad7f-4de1919f05e2" />
+
+
+
+
+
+
+
+
+
 
 
 
